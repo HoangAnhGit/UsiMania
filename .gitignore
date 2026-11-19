@@ -1,0 +1,5 @@
+## Visual Studio / ASP.NET Web Forms (.NET Framework)
+[Bb]in/
+[Oo]bj/
+.vs/
+packages/
